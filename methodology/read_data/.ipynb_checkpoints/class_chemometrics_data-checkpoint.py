@@ -1,6 +1,6 @@
 # ----------------------------------------------------------------------
 
-# --- Class import data for chemometrics analysis
+# --- class import data for chemometrics analysis
 
 # ----------------------------------------------------------------------
 
